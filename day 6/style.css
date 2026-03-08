@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    align-content: center;
+}
+body div{
+    width: 100px;
+    border: .7px solid rgb(64, 62, 62);
+    align-items: center     ;
+}

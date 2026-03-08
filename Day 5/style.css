@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-color: black;
+}
+.box{
+   width: 100px ;
+   height: 100px;
+}
+#box1{
+    background-color: aliceblue;
+}
+#box2{
+    background-color: rgb(73, 134, 187);
+}
+#box3{
+    background-color: rgb(196, 81, 234);
+}
+#box4{
+    background-color: rgb(67, 182, 100);
+}
+#box5{
+    background-color: rgb(222, 85, 172);
+}
