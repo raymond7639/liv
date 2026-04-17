@@ -1,0 +1,34 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: white;
+    font-family:gilroy;
+    font-size: 15vh;
+    transition: ease-in-out .8s;
+}
+
+#cursor {
+    background-color: rgb(255, 255, 255);
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    position: absolute;
+    top:50px;
+    left: 50px;
+    opacity: .8;
+    transition: all linear 0.2s;
+}

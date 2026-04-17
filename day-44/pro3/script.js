@@ -1,0 +1,1 @@
+// when you scroll down Navigation bar goes up and disappear and when you scroll up it comes back   
